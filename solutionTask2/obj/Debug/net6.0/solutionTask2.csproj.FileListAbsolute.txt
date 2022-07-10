@@ -1,0 +1,15 @@
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask2\bin\Debug\net6.0\solutionTask2.exe
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask2\bin\Debug\net6.0\solutionTask2.deps.json
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask2\bin\Debug\net6.0\solutionTask2.runtimeconfig.json
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask2\bin\Debug\net6.0\solutionTask2.dll
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask2\bin\Debug\net6.0\solutionTask2.pdb
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask2\obj\Debug\net6.0\solutionTask2.csproj.AssemblyReference.cache
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask2\obj\Debug\net6.0\solutionTask2.GeneratedMSBuildEditorConfig.editorconfig
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask2\obj\Debug\net6.0\solutionTask2.AssemblyInfoInputs.cache
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask2\obj\Debug\net6.0\solutionTask2.AssemblyInfo.cs
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask2\obj\Debug\net6.0\solutionTask2.csproj.CoreCompileInputs.cache
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask2\obj\Debug\net6.0\solutionTask2.dll
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask2\obj\Debug\net6.0\refint\solutionTask2.dll
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask2\obj\Debug\net6.0\solutionTask2.pdb
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask2\obj\Debug\net6.0\solutionTask2.genruntimeconfig.cache
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask2\obj\Debug\net6.0\ref\solutionTask2.dll
