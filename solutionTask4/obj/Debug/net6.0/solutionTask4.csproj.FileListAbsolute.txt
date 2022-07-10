@@ -1,0 +1,15 @@
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask4\bin\Debug\net6.0\solutionTask4.exe
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask4\bin\Debug\net6.0\solutionTask4.deps.json
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask4\bin\Debug\net6.0\solutionTask4.runtimeconfig.json
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask4\bin\Debug\net6.0\solutionTask4.dll
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask4\bin\Debug\net6.0\solutionTask4.pdb
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask4\obj\Debug\net6.0\solutionTask4.csproj.AssemblyReference.cache
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask4\obj\Debug\net6.0\solutionTask4.GeneratedMSBuildEditorConfig.editorconfig
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask4\obj\Debug\net6.0\solutionTask4.AssemblyInfoInputs.cache
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask4\obj\Debug\net6.0\solutionTask4.AssemblyInfo.cs
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask4\obj\Debug\net6.0\solutionTask4.csproj.CoreCompileInputs.cache
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask4\obj\Debug\net6.0\solutionTask4.dll
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask4\obj\Debug\net6.0\refint\solutionTask4.dll
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask4\obj\Debug\net6.0\solutionTask4.pdb
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask4\obj\Debug\net6.0\solutionTask4.genruntimeconfig.cache
+D:\FirstStepInPrograming\FirstStepInPrograming\solutionTask4\obj\Debug\net6.0\ref\solutionTask4.dll
