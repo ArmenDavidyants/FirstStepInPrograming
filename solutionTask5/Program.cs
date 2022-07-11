@@ -1,28 +1,28 @@
 ﻿string? inputLine = Console.ReadLine();
-string? m= " ";
+string? line= " ";
 
 
 if(inputLine != null)
 {
   
-  int N = int.Parse(inputLine);
-  int S = 0;
-  while(S <N-1)
+  int size = int.Parse(inputLine);
+  int start = 0;
+  while(start <size)
   {
     
-    S=S+1;
-    if(S% 2==0)
+    start=start+1;
+    if(start% 2==0)
     {
-     m=m+S+ " ,"; 
+     line=line+start+ " "; 
     
     }
       
   }
   
   
-   
-  m=m+N;
-  Console.WriteLine(m); 
+  
+  
+  Console.WriteLine(line); 
 
 
 }
