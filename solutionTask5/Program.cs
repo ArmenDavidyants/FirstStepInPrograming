@@ -1,5 +1,5 @@
 ﻿string? inputLine = Console.ReadLine();
-string? line= " ";
+string? line="";
 
 
 if(inputLine != null)
@@ -13,17 +13,16 @@ if(inputLine != null)
     start=start+1;
     if(start% 2==0)
     {
-     line=line+start+ " "; 
+     line=line+start+" "; 
     
     }
       
+  
+  
+  
+  
+  
   }
-  
-  
-  
-  
-  Console.WriteLine(line); 
-
-
+Console.WriteLine(line); 
 }
 
