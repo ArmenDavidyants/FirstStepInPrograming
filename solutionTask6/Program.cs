@@ -1,55 +1,14 @@
-﻿string? inputLine = Console.ReadLine();
-
-if(inputLine != null)
+﻿string? even = Console.ReadLine();
+if (even != null)
 {
-   
-   int inputNumber = int.Parse(inputLine);
-  // switch(inputNumber)
-  // {
-   //   case 1:
-    //  Console.WriteLine("Понедельник");
-     // break;
-
-     // case 2:
-      //Console.WriteLine("Вторник");
-     // break;
-
-      //case 3:
-     // Console.WriteLine("Среда");
-     // break;
-//
-     // case 4:
-    //  Console.WriteLine("Четверг");
-     // break;
-
-      //case 5:
-      //Console.WriteLine("Пятница");
-      //break;
-
-     // case 6:
-      //Console.WriteLine("Cуббота");
-      //break;
-
-      //case 7:
-      //Console.WriteLine("Воскресенье");
-      //break;
-   //}
-   
-   
-   
-   string [] dayOfWeek = new string[7];
-   dayOfWeek[0]= "Понедкльник";
-   dayOfWeek[1]="Вторник";
-   dayOfWeek[2]="Среда";
-   dayOfWeek[3]="Четверг";
-   dayOfWeek[4]="Пятница";
-   dayOfWeek[5]="Суббота";
-   dayOfWeek[6]="Воскресенье";
-    //int outNumber= outNumber*outNumbr;
-   int outNumber= (int)Math.Pow(inputNumber,2);
-
-   Console.WriteLine(dayOfWeek[inputNumber-1]);
-
-   
+    int even1 = int.Parse(even);
+    if (even1 % 2==0)
+    {
+       Console.WriteLine("да");
+    }
+    else 
+    {
+        Console.WriteLine("нет");
+    }
 
 }
